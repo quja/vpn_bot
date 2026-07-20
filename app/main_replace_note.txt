@@ -1,0 +1,3 @@
+Replace app/main.py fully with the file in this archive.
+Important: do NOT start any background payment/test delivery task on startup.
+The delivery must happen only from the admin callback in handlers.py.
